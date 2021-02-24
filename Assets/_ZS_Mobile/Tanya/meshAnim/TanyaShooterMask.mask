@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TanyaShooterMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis
+    m_Weight: 0
+  - m_Path: Tanya_Pelvis/Tanya_L_Leg_1
+    m_Weight: 0
+  - m_Path: Tanya_Pelvis/Tanya_L_Leg_1/Tanya_L_Leg_2
+    m_Weight: 0
+  - m_Path: Tanya_Pelvis/Tanya_L_Leg_1/Tanya_L_Leg_2/Tanya_L_Leg_Ankle
+    m_Weight: 0
+  - m_Path: Tanya_Pelvis/Tanya_R_Leg_1
+    m_Weight: 0
+  - m_Path: Tanya_Pelvis/Tanya_R_Leg_1/Tanya_R_Leg_2
+    m_Weight: 0
+  - m_Path: Tanya_Pelvis/Tanya_R_Leg_1/Tanya_R_Leg_2/Tanya_R_Leg_Ankle
+    m_Weight: 0
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_L_Arm_Collarbone
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_L_Arm_Collarbone/Tanya_L_Arm_1
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_L_Arm_Collarbone/Tanya_L_Arm_1/Tanya_L_Arm_2
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_L_Arm_Collarbone/Tanya_L_Arm_1/Tanya_L_Arm_2/Tanya_L_Arm_Hand
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_L_Arm_Collarbone/Tanya_L_Arm_1/Tanya_L_Arm_2/Tanya_L_Arm_Hand/Tanya_Finger_1_1_L
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_L_Arm_Collarbone/Tanya_L_Arm_1/Tanya_L_Arm_2/Tanya_L_Arm_Hand/Tanya_Finger_1_1_L/Tanya_Finger_1_2_L
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_L_Arm_Collarbone/Tanya_L_Arm_1/Tanya_L_Arm_2/Tanya_L_Arm_Hand/Tanya_Finger_1_1_L/Tanya_Finger_1_2_L/Tanya_Finger_1_3_L
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_L_Arm_Collarbone/Tanya_L_Arm_1/Tanya_L_Arm_2/Tanya_L_Arm_Hand/Tanya_Finger_2_1_L
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_L_Arm_Collarbone/Tanya_L_Arm_1/Tanya_L_Arm_2/Tanya_L_Arm_Hand/Tanya_Finger_2_1_L/Tanya_Finger_2_2_L
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_L_Arm_Collarbone/Tanya_L_Arm_1/Tanya_L_Arm_2/Tanya_L_Arm_Hand/Tanya_Finger_2_1_L/Tanya_Finger_2_2_L/Tanya_Finger_2_3_L
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_L_Arm_Collarbone/Tanya_L_Arm_1/Tanya_L_Arm_2/Tanya_L_Arm_Hand/Tanya_Finger_3_1_L
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_L_Arm_Collarbone/Tanya_L_Arm_1/Tanya_L_Arm_2/Tanya_L_Arm_Hand/Tanya_Finger_3_1_L/Tanya_Finger_3_2_L
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_L_Arm_Collarbone/Tanya_L_Arm_1/Tanya_L_Arm_2/Tanya_L_Arm_Hand/Tanya_Finger_3_1_L/Tanya_Finger_3_2_L/Tanya_Finger_3_3_L
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_L_Arm_Collarbone/Tanya_L_Arm_1/Tanya_L_Arm_2/Tanya_L_Arm_Hand/Tanya_Finger_4_1_L
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_L_Arm_Collarbone/Tanya_L_Arm_1/Tanya_L_Arm_2/Tanya_L_Arm_Hand/Tanya_Finger_4_1_L/Tanya_Finger_4_2_L
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_L_Arm_Collarbone/Tanya_L_Arm_1/Tanya_L_Arm_2/Tanya_L_Arm_Hand/Tanya_Finger_4_1_L/Tanya_Finger_4_2_L/Tanya_Finger_4_3_L
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_L_Arm_Collarbone/Tanya_L_Arm_1/Tanya_L_Arm_2/Tanya_L_Arm_Hand/Tanya_Thumb_1_L
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_L_Arm_Collarbone/Tanya_L_Arm_1/Tanya_L_Arm_2/Tanya_L_Arm_Hand/Tanya_Thumb_1_L/Tanya_Thumb_2_L
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_Neck
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_Neck/Tanya_Head
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_R_Arm_Collarbone
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_R_Arm_Collarbone/Tanya_R_Arm_1
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_R_Arm_Collarbone/Tanya_R_Arm_1/Tanya_R_Arm_2
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_R_Arm_Collarbone/Tanya_R_Arm_1/Tanya_R_Arm_2/Tanya_R_Arm_Hand
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_R_Arm_Collarbone/Tanya_R_Arm_1/Tanya_R_Arm_2/Tanya_R_Arm_Hand/Tanya_Finger_1_1_R
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_R_Arm_Collarbone/Tanya_R_Arm_1/Tanya_R_Arm_2/Tanya_R_Arm_Hand/Tanya_Finger_1_1_R/Tanya_Finger_1_2_R
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_R_Arm_Collarbone/Tanya_R_Arm_1/Tanya_R_Arm_2/Tanya_R_Arm_Hand/Tanya_Finger_1_1_R/Tanya_Finger_1_2_R/Tanya_Finger_1_3_R
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_R_Arm_Collarbone/Tanya_R_Arm_1/Tanya_R_Arm_2/Tanya_R_Arm_Hand/Tanya_Finger_2_1_R
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_R_Arm_Collarbone/Tanya_R_Arm_1/Tanya_R_Arm_2/Tanya_R_Arm_Hand/Tanya_Finger_2_1_R/Tanya_Finger_2_2_R
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_R_Arm_Collarbone/Tanya_R_Arm_1/Tanya_R_Arm_2/Tanya_R_Arm_Hand/Tanya_Finger_2_1_R/Tanya_Finger_2_2_R/Tanya_Finger_2_3_R
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_R_Arm_Collarbone/Tanya_R_Arm_1/Tanya_R_Arm_2/Tanya_R_Arm_Hand/Tanya_Finger_3_1_R
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_R_Arm_Collarbone/Tanya_R_Arm_1/Tanya_R_Arm_2/Tanya_R_Arm_Hand/Tanya_Finger_3_1_R/Tanya_Finger_3_2_R
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_R_Arm_Collarbone/Tanya_R_Arm_1/Tanya_R_Arm_2/Tanya_R_Arm_Hand/Tanya_Finger_3_1_R/Tanya_Finger_3_2_R/Tanya_Finger_3_3_R
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_R_Arm_Collarbone/Tanya_R_Arm_1/Tanya_R_Arm_2/Tanya_R_Arm_Hand/Tanya_Finger_4_1_R
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_R_Arm_Collarbone/Tanya_R_Arm_1/Tanya_R_Arm_2/Tanya_R_Arm_Hand/Tanya_Finger_4_1_R/Tanya_Finger_4_2_R
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_R_Arm_Collarbone/Tanya_R_Arm_1/Tanya_R_Arm_2/Tanya_R_Arm_Hand/Tanya_Finger_4_1_R/Tanya_Finger_4_2_R/Tanya_Finger_4_3_R
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_R_Arm_Collarbone/Tanya_R_Arm_1/Tanya_R_Arm_2/Tanya_R_Arm_Hand/Tanya_Thumb_1_R
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_R_Arm_Collarbone/Tanya_R_Arm_1/Tanya_R_Arm_2/Tanya_R_Arm_Hand/Tanya_Thumb_1_R/Tanya_Thumb_2_R
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_R_Arm_Collarbone/Tanya_R_Arm_1/Tanya_R_Arm_2/Tanya_R_Arm_Hand/Tanya_Weapon
+    m_Weight: 1
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_R_Arm_Collarbone/Tanya_R_Arm_1/Tanya_R_Arm_2/Tanya_R_Arm_Hand/Tanya_Weapon/SwordMesh
+    m_Weight: 0
+  - m_Path: Tanya_Pelvis/Tanya_Spine_1/Tanya_Spine_2/Tanya_Chest/Tanya_R_Arm_Collarbone/Tanya_R_Arm_1/Tanya_R_Arm_2/Tanya_R_Arm_Hand/Tanya_Weapon/WeaponMesh
+    m_Weight: 0
+  - m_Path: TanyaMesh
+    m_Weight: 0
